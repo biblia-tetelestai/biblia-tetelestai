@@ -16,7 +16,6 @@ Bem-vindo ao repositório da **Bíblia Tetelestai**, uma aplicação web que ofe
 
 - HTML, CSS, JavaScript
 - APIs de versões da Bíblia
-- Banco de dados (para armazenamento de anotações e outros dados)
 
 ## Link para a Aplicação 🌐
 
